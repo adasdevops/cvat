@@ -6,6 +6,7 @@
 [![server pulls][docker-server-pulls-img]][docker-server-image-url]
 [![ui pulls][docker-ui-pulls-img]][docker-ui-image-url]
 [![DOI][doi-img]][doi-url]
+1222
 
 CVAT is free, online, interactive video and image annotation
 tool for computer vision. It is being used by our team to
